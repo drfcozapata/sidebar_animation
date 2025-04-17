@@ -1,3 +1,3 @@
-# sidebar_animation
+# Sidebar Animation
 
 A new Flutter project.
